@@ -1,5 +1,5 @@
 ## About me
-&emsp; I have been developing Android apps for two years now. Look out for applications I work on here primarily in Kotlin.
+&emsp; I have been developing Android apps for two years now. Look out for applications I work on here written primarily in Kotlin.
 Currently I am getting Antheia ready for release on the Google Playstore. Check it out over [here](https://github.com/MegaBreadbox/Antheia).
 You can reach out to me over on megabreadbox@protonmail.com
 
