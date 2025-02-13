@@ -1,6 +1,6 @@
 ## About me
 &emsp; I have been developing Android apps for two years now. Look out for applications I work on here written primarily in Kotlin.
-Currently I am getting Antheia ready for release on the Google Playstore. Check it out over [here](https://github.com/MegaBreadbox/Antheia).  
+Currently I released Antheia Plant Manager to the Google Playstore! Check it out over [here](https://play.google.com/store/apps/details?id=com.mega_breadbox.antheia_plant_manager).  
 
 You can reach out to me over on megabreadbox@protonmail.com
 
